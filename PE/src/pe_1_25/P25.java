@@ -1,4 +1,4 @@
-package p_1_25;
+package pe_1_25;
 
 import java.math.BigInteger;
 

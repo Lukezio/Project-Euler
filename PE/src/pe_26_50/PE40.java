@@ -1,4 +1,4 @@
-package p_26_50;
+package pe_26_50;
 
 public class PE40 {
 
