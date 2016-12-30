@@ -20,6 +20,7 @@ public class PE19 {
 				monthFirstDay = (monthFirstDay + curDays) % 7;
 				if (monthFirstDay == 6) {
 					System.out.println(i + ". jahr, " + j + " monat ");
+					System.out.println(monthFirstDay);
 					counter++;
 				}
 			}
