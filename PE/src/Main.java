@@ -1,9 +1,9 @@
-import pe_51_75.PE55;
+import pe_26_50.PE38;
 
 public class Main {
 
 	public static void main(String[] args) {
-		new PE55();
+		new PE38();
 		//new P15();		
 	}
 
